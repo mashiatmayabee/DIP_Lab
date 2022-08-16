@@ -1,5 +1,4 @@
-from turtle import right
-from cv2 import COLOR_RGB2GRAY, imshow
+
 import matplotlib.pyplot as plt
 import numpy as np
 import cv2
