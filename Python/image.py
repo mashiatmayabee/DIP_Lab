@@ -16,7 +16,6 @@ def main():
     grayscale_img= cv2.cvtColor(img,cv2.COLOR_RGB2GRAY)
     
 
-
     # plt.figure(figsize = (20,20))
     plt.subplot(2,2,2)
     plt.imshow(img[:, :,1],cmap='gray')
